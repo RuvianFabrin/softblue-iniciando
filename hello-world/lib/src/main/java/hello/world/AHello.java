@@ -12,9 +12,9 @@ public class AHello {
 		//EstruturaDeRepeticaoDoWhile.start();
 		//FEstruturaRepeticaoWhile.start();
 		//GEstruturaRepeticaoFor.start();
-		//HFibonacci.start();
+		HFibonacci.start();
 		//ILogicaArray.start();
-		JSort.start();
+		//JSort.start();
 	}
 
 
