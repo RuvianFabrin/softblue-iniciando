@@ -13,7 +13,8 @@ public class AHello {
 		//FEstruturaRepeticaoWhile.start();
 		//GEstruturaRepeticaoFor.start();
 		//HFibonacci.start();
-		ILogicaArray.start();
+		//ILogicaArray.start();
+		JSort.start();
 	}
 
 
