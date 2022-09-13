@@ -12,9 +12,15 @@ public class AHello {
 		//EstruturaDeRepeticaoDoWhile.start();
 		//FEstruturaRepeticaoWhile.start();
 		//GEstruturaRepeticaoFor.start();
-		HFibonacci.start();
+		//HFibonacci.start();
 		//ILogicaArray.start();
 		//JSort.start();
+		KMetodos.calcularFibonacci(10, ",");
+		System.out.println();
+		int[] array = KMetodos.calcularFibonacci(9);
+		for(int v : array) {
+			System.out.print(v + " - ");
+		}
 	}
 
 
