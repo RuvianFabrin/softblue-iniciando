@@ -15,12 +15,13 @@ public class AHello {
 		//HFibonacci.start();
 		//ILogicaArray.start();
 		//JSort.start();
-		KMetodos.calcularFibonacci(10, ",");
+		/*KMetodos.calcularFibonacci(10, ",");
 		System.out.println();
 		int[] array = KMetodos.calcularFibonacci(9);
 		for(int v : array) {
 			System.out.print(v + " - ");
-		}
+		}*/
+		LCconversor.start();
 	}
 
 
